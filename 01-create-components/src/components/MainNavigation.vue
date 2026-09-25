@@ -25,14 +25,14 @@
     }
 
     li {
-        margin-bottom: 1rem;
-        margin: 1rem;
+        margin-right: 1rem;
     }
 
     a {
         text-decoration: none;
         color: #333;
         font-size: 1.2rem;
+        padding: 0.5rem 1rem;
     }
 
 
