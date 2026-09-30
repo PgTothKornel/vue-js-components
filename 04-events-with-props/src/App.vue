@@ -26,6 +26,25 @@ const formData = reactive({
 });
 
 
+const menu = [
+{
+text: 'Vue.js',
+url: 'https://vuejs.org/',
+},
+{
+text: 'React',
+url: 'https://reactjs.org/',
+},
+{
+text: 'Angular',
+url: 'https://angular.io/',
+},
+{
+text: 'Svelte',
+url: 'https://svelte.dev/',
+},
+]
+
 </script>
 
 <template>
