@@ -6,7 +6,7 @@ import SiteContent from './components/SiteContent.vue';
 
 <template>
   <header>
-    <MainNavigation/>
+    <MainNavigation title="Az én Vjú appom!"/>
   </header>
 
   <main>
